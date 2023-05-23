@@ -7,5 +7,3 @@ About the Project:
 4. Users can also contact with the owner of the company through this application,
 5. Users can SignUp using email & password. They can also login using Google sign-in and GitHub sign-in# Chefs-Kingdom-Short-React-Project
 # Chefs-Kingdom-Short-React-Project
-# Chefs-Kingdom-Short-React-Project
-# Chefs-Kingdom-Short-React-Project

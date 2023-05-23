@@ -1,0 +1,24 @@
+.inputContact {
+    width: 500px;
+    height: 50px;
+    margin-bottom: 20px
+}
+.inputTextArea
+{
+    width: 500px;
+    height: 145px ;
+    margin-bottom: 20px
+}
+@media screen and (width < 700px) {
+    .inputContact {
+        width: 350px;
+        height: 40px;
+        margin-bottom: 10px
+    }
+    .inputTextArea
+    {
+        width: 350px;
+        height: 145px ;
+        margin-bottom: 20px
+    }
+}

@@ -1,0 +1,17 @@
+.inactive
+{
+    color: white;
+}
+
+.displayName
+{
+    color: white;
+}
+/* .photoUrl
+{
+    cursor: pointer;
+}
+.photoUrl:hover + .displayName
+{
+    display: block;
+} */
